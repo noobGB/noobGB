@@ -24,10 +24,8 @@ time — currently deepening into Physical AI, embedded systems, and agentic too
 |---|---|
 | [**snowpro-core-prep**](https://github.com/noobGB/snowpro-core-prep) | Local, offline-first study app for the Snowflake SnowPro Core exam — mock tests, flashcards, and an MCP server for readiness tracking. Live at [snowpro.gauravbarwalia.com](https://snowpro.gauravbarwalia.com). |
 | [**webcam-object-detection**](https://github.com/noobGB/webcam-object-detection) | Real-time computer vision on a $30 webcam — YOLO object detection, MediaPipe hand/gesture tracking, gesture-triggered actions. |
-| [**nn-training-lab**](https://github.com/noobGB/nn-training-lab) | Hands-on PyTorch lab for learning how neural nets actually train, infer, and fine-tune — CPU-only, real code over theory. |
 | [**idea-vault**](https://github.com/noobGB/idea-vault) | Telegram → headless Claude Code → categorized idea dashboard. Self-hostable pipeline for capturing and triaging ideas without losing them. |
 | [**PC-Activity-tracker**](https://github.com/noobGB/PC-Activity-tracker) | Background Windows tracker for app-focus time and browsing history, with a Streamlit dashboard for reviewing it. |
-| [**ESP32_Calculate_Capacitance**](https://github.com/noobGB/ESP32_Calculate_Capacitance) | ESP32 firmware for measuring unknown capacitance in circuit — one of several embedded/IoT experiments. |
 
 ## Tech I work with
 
