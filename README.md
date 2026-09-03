@@ -9,7 +9,7 @@ time — currently deepening into Physical AI, embedded systems, and agentic too
 
 ## About
 
-- Data Engineer, working primarily in Snowflake — certified **SnowPro Core (COF-C03)**.
+- Data Engineer, working primarily in Snowflake — certified [**SnowPro Core (COF-C03)**](https://achieve.snowflake.com/a6ae5831-336d-42d2-b909-d5bf23f5a969#acc.URoES3ld).
 - Electrical engineer by training; that background shows up in a running side-track of embedded
   systems and IoT work (ESP32/ESP8266, Home Assistant, ESPHome).
 - Lately spending most of my learning time on **agentic AI systems** — using Claude Code as a
