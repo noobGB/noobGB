@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:B24E30,100:7F6236&text=Gaurav%20Barwalia&fontSize=58&fontColor=FAF6EF&animation=fadeIn&desc=Data%20Engineer%20%C3%97%20Physical%20AI%20Builder&descSize=19&descAlignY=78" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B24E30&center=true&vCenter=true&width=650&lines=Data+Engineer+%40+Tredence+Analytics;Physical+AI+%2B+embedded+systems+%28ESP32%2C+ESPHome%29;Building+with+Claude+Code+as+an+agentic+partner)](https://gauravbarwalia.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B24E30&center=true&vCenter=true&width=650&lines=Data+Engineer+by+day;Physical+AI+%2B+embedded+systems+%28ESP32%2C+ESPHome%29;Building+with+Claude+Code+as+an+agentic+partner)](https://gauravbarwalia.com)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ```python
 gaurav = {
-    "role": "Data Engineer @ Tredence Analytics",
+    "role": "Data Engineer",
     "background": "Electrical Engineering",
     "certified": ["SnowPro Core (COF-C03)"],
     "focus": ["Agentic AI systems", "Physical AI", "Embedded/IoT (ESP32, Home Assistant, ESPHome)"],
