@@ -21,7 +21,7 @@ time — currently deepening into Physical AI, embedded systems, and agentic too
 
 | Project | What it is |
 |---|---|
-| [**snowpro-core-prep**](https://github.com/noobGB/snowpro-core-prep) | Local, offline-first study app for the Snowflake SnowPro Core exam — mock tests, flashcards, and an MCP server for readiness tracking. Live at [snowpro.gauravbarwalia.com](https://snowpro.gauravbarwalia.com). |
+| [**MockCert**](https://github.com/noobGB/mockcert-platform) | Multi-track certification-preparation platform with practice, timed mock exams, flashcards, study tools, and readiness analytics. SnowPro Core is the first available track. |
 | [**webcam-object-detection**](https://github.com/noobGB/webcam-object-detection) | Real-time computer vision on a $30 webcam — YOLO object detection, MediaPipe hand/gesture tracking, gesture-triggered actions. |
 | [**idea-vault**](https://github.com/noobGB/idea-vault) | Telegram → headless Claude Code → categorized idea dashboard. Self-hostable pipeline for capturing and triaging ideas without losing them. |
 | [**PC-Activity-tracker**](https://github.com/noobGB/PC-Activity-tracker) | Background Windows tracker for app-focus time and browsing history, with a Streamlit dashboard for reviewing it. |
